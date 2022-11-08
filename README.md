@@ -1,7 +1,7 @@
 # Notetaker
 [![License](https://img.shields.io/badge/license-The%20Unlicense-brightgreen)](https://www.choosealicense.com/licenses/unlicense)
 ## Description
-A browser-based note collection and writing app that saves your notes in-between sessions.
+A browser-based note collection and writing app that saves your notes in-between sessions. The delete functionality needs an accompanying page refresh to see the changes as of now.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,7 +12,7 @@ A browser-based note collection and writing app that saves your notes in-between
 ## Installation
 The project can be installed by cloning this repository and running `npm init -y` then `npm i` to install the necessary modules.
 ## Usage
-To run, use the command `node server.js`. The application is also deployed on the website https://immense-escarpment-77334.herokuapp.com/
+To run, use the command `node server.js`. The application is also deployed on the website https://immense-escarpment-77334.herokuapp.com/ and looks like this: ![NoteTaker](./images/NoteTaker.jpeg?raw=true) ![NoteView](./images/NoteView.jpeg?raw=true)
 ## License
 This application is licensed under [The Unlicense](https://www.choosealicense.com/licenses/unlicense).
 ## Contributing
